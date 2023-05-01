@@ -1,0 +1,14 @@
+Server - 
+Download insider data
+select fields to store in db
+find/create primary key for record
+process csv and store data in db
+create routes to get filtered data
+Create some/same routes as GRPC
+Create some/same routes as Graphql
+
+Client - 
+Create UI design mock
+Create basic filter and views
+Create more advance filters
+
